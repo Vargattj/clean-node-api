@@ -8,3 +8,5 @@ module.exports = {
     '.+\\.ts$': 'ts-jest'
   }
 }
+
+// jest --clearCache
